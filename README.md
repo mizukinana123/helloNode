@@ -1,11 +1,8 @@
 # lesson1
-## 实现功能
-1. 访问 [http://localhost:3000/](http://localhost:3000/) 页面输出hello world
-## 运行
-1. `npm install`
-2. `node app.js`
-# lesson2
+- 访问 [http://localhost:3000/](http://localhost:3000/) 页面输出`hello world`
 
+# lesson2
+- 访问[http://localhost:3000/?q=test](http://localhost:3000/?q=test)页面输出`test`的md5值
 # lesson3
 # lesson4
 
